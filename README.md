@@ -1,16 +1,33 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile.
+### My name is Bianca Luísa and my nickname is "Bia"!
 
-<!--
-**luisabianca/luisabianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ferramentas e Tecnologias
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contatos:
+
+<div>
+<a href = "mailto:contato@luisabianca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/biancaluisasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>          
+          
+<div>
+<a href="https://github.com/luisabianca">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabianca&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisabianca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+          
+
+      
+
+          
+
+          
+
