@@ -22,9 +22,7 @@
   <img height="180em" style="width: 49%; float: right; margin: none;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabianca&count_private=true&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
        
-      
-
- ![Snake animation](https://github.com/luisabianca/luisabianca/blob/output/github-contribution-grid-snake.svg)         
+         
 
           
 
